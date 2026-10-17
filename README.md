@@ -1,0 +1,1 @@
+// A project of smartcart that make clusters of different type of customers
